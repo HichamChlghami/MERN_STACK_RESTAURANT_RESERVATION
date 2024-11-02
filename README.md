@@ -35,4 +35,4 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-reservation.git
+   git clone https://github.com/HichamChlghami/MERN_STACK_RESTAURANT_RESERVATION.git
